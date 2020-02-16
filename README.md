@@ -7,4 +7,5 @@ I have send the "name"  from my App component state to Person component as a pro
 
 
 To start the project you have to install node js ,which will automatically install npm.
-Go to your folder where you have taken the clone and write npm start to run the project.
+Install create-react-app globally using "npm install -g create-react-app".
+Now Go to your folder where you have taken the clone and write npm start to run the project.
